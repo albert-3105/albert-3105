@@ -1,5 +1,23 @@
 # 💫 About Me:
-<br>👋 Hi I am albert bermudez<br><br>❤️ I'm a multimedia engineer and I'm passionate about technology and creativity.<br><br>👨‍💻 I've had the opportunity to work on a variety of multimedia projects, including graphic design and programming, video production, web development, 2D game development, and VR game development.<br><br>🌟 Throughout my career, I have been involved in various projects and have enjoyed every step of the way, particularly the process of software design and development, 3D modeling, among others.<br><br>🧠 I constantly strive to expand my skillset and knowledge with each project I undertake.
+💼 I'm a Multimedia Engineer focused on building digital solutions, process automation, and data analysis.<br><br>
+
+❤️ I'm passionate about technology and creativity, combining both to develop efficient and user-centered solutions.<br><br>
+
+👨‍💻 I have worked on a variety of projects including web development, software development, dashboards, and multimedia applications, aimed at optimizing processes and improving decision-making.<br><br>
+
+📊 Currently, I work with data analysis, dashboard development, and workflow automation, creating solutions that reduce manual tasks and increase operational efficiency.<br><br>
+
+🧩 Technical experience:<br>
+
+Python (main focus for learning and development)<br>
+SQL (basic level)<br>
+API consumption and integration<br><br>
+
+🎯 I focus on building scalable, efficient, and results-driven solutions, combining analytical thinking with creativity.<br><br>
+
+🧠 I am constantly learning, with a strong focus on Python, data, and automation technologies.<br><br>
+
+📂 Here you will find projects that reflect my growth and experience in technology, data, and automation.<br><br>
 
 
 ## 🌐 Socials:
