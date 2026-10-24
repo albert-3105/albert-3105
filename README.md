@@ -1,7 +1,7 @@
 # Hi, I'm Albert Bermúdez 👋
 
 **Multimedia engineer. I build bots, automations and software that make people's work easier.**
-Based in Cúcuta, Colombia (UTC−5) · open to remote work · Spanish (native), English (B1).
+Based in Cúcuta, Colombia · open to remote work · Spanish (native), English (B1).
 
 I move between code, data and design: I find the tasks people repeat by hand and turn them into tools that are simple to use. Co-founder of [Digital Forge](https://digitalforgedev.netlify.app).
 
