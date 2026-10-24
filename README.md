@@ -1,30 +1,37 @@
 # Hi, I'm Albert Bermúdez 👋
 
-**Multimedia engineer · Development, automation & digital marketing**
-Co-founder of [Digital Forge](https://digitalforgedev.netlify.app), a web development and AI agency in Colombia.
+**Multimedia engineer. I build bots, automations and software that make people's work easier.**
+Based in Cúcuta, Colombia (UTC−5) · open to remote work · Spanish (native), English (B1).
 
-I build web applications, automations and bots with **Python** and **Node.js**, including AI assistants for WhatsApp. I also work with data and metrics through dashboards, and manage campaigns on Meta Ads, TikTok Ads and Google Ads.
+I move between code, data and design: I find the tasks people repeat by hand and turn them into tools that are simple to use. Co-founder of [Digital Forge](https://digitalforgedev.netlify.app).
+
+🌐 **Portfolio:** [albert-3105.github.io](https://albert-3105.github.io)
 
 ---
 
-### What I'm working on
+### Featured projects
 
-- **S.I.S.I.** — AI WhatsApp assistant in production for a public citizen-service agency in Cúcuta. Interactive menus, automatic classification lookups, PDF certificate generation, handoff to human agents and Excel reports. *(Private code.)*
-- **[procesador-sisben](https://github.com/albert-3105/procesador-sisben)** — Python tool that cleans field-team Excel files, removes duplicates and updates a Google Sheets master file in real time (20,000+ records).
-- **Dashboards** in Looker Studio with KPIs and heat maps for operations monitoring.
-- **Digital Forge website** — multilingual (ES / EN / PT) agency site built with Astro.
+| Project | What it does | Stack |
+|---|---|---|
+| **[Help desk with tickets](https://github.com/albert-3105/mesa-de-ayuda-tickets)** | Turns support emails and forms into numbered tickets, logs them in Google Sheets and notifies the team on WhatsApp. | Google Apps Script · Gmail · Sheets · n8n |
+| **[Appointment queue](https://github.com/albert-3105/turnero-agenda)** | Office queue system for tablets: 14-day booking, daily cap, ID-based scheduling rule, Sheets sync and email reminders. Works offline on the local network. | Node.js · Google Sheets API · SMTP |
+| **[WhatsApp service bot](https://github.com/albert-3105/chatbot-whatsapp-tramites)** | Citizen-service chatbot: consent, registration, status lookup, PDF certificates, menus and handoff to human agents who reply from WhatsApp. | Node.js · WhatsApp Cloud API · PDFKit |
+| **RPA for a government web app** | Python robot that assigns survey requests in batches, verifies the selection before confirming and paints the results in Google Sheets. *(Code not public.)* | Python · Playwright |
+| **Data pipeline + dashboards** | Central base that merges field forms, call-center data and national results every morning and feeds 4 Looker Studio dashboards. *(Code not public.)* | Apps Script · Looker Studio |
+| **[Digital Forge website](https://digitalforgedev.netlify.app)** | Agency site, 18 pages in Spanish, English and Portuguese, auto-deployed on every push. | Astro · Netlify |
 
 ### Tech
 
-`Python` `Node.js` `JavaScript` `HTML/CSS` `Astro` `REST APIs` `Flask` `WhatsApp bots` `Twilio` `Google Sheets API` `Looker Studio` `Excel` `Figma` `Meta Ads` `TikTok Ads` `Google Ads`
+`Python` `Node.js` `JavaScript` `Google Apps Script` `n8n` `WhatsApp Cloud API` `Playwright` `Flask` `REST APIs` `Docker` `Linux` `Google Sheets` `Looker Studio` `Streamlit` `Astro` `HTML/CSS` `UI/UX` `Adobe` `Meta Ads`
 
 ### Experience
 
-- **Freelance developer** (2024 – now): websites, apps, bots, APIs and WhatsApp/SMS integrations for independent clients.
-- **Data & automation analyst** — public citizen-service agency (6 months).
+- **Systems engineer** — public citizen-service office, Cúcuta (Jan 2026 – now): chatbot, help desk, data pipeline, dashboards, RPA and servers.
+- **Co-founder** — Digital Forge (2026 – now): custom software and automation.
 - **Marketing director** — Lovol (Dec 2025 – Feb 2026): +204% Instagram growth, 50 leads.
-- **Web & UX/UI design** — Ministry of Culture of Colombia (2023).
+- **Multimedia engineer** — Ascontrif Empresarial (2025): internal tools, data reports and automation.
+- **Freelance developer** (2024 – 2025): Python bots, Twilio, web apps and Flask APIs.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/albert-bermudez-554837252/) · [Digital Forge](https://digitalforgedev.netlify.app) · digitalforge.ventas@gmail.com
+[LinkedIn](https://www.linkedin.com/in/albert-bermudez-554837252/) · [Portfolio](https://albert-3105.github.io) · albertbermudez31@gmail.com
